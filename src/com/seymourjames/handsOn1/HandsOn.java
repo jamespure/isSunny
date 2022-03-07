@@ -3,7 +3,7 @@ package com.seymourjames.handsOn1;
 public class HandsOn {
 
 	public static void main(String[] args) {
-		boolean isSunny = false;
+		boolean isSunny = true;
 		boolean atBeach = true;
 		
 		if (isSunny == true) {
